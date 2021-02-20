@@ -1,1 +1,1 @@
-All changes are welcome as long as no code is involved. If you run into any bugs, please file an issue and explain how that was even possible.
+只要没码包含在里面，所有的都欢迎。如果你遇到问题，请提出 issue 并且说明原因。
