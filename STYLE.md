@@ -1,10 +1,10 @@
-# No Code Style Guide
+# 没码风格指导
 
-All no code programs are the same, regardless of use case, any code you write is a liability.
+所有的没码程序都是一样的，不管什么使用场景，你写的任何代码都是不可信的。
 
-## File Extensions
+## 文件后缀
 
-No code is not stored in files, but if you must, use the `.no` file extension.
+没码不是存在文件里的，如果你非要，可以使用 `.no` 文件后缀。
 
 ```
 main.no
@@ -12,7 +12,7 @@ main.no
 
 ## Linters
 
-There is only one way to write no code and the `du` command can help you identify any issues. 
+只有一种方法写没码，`du` 命令可以帮你识别所有问题。
 
 ```
 du -h main.no
@@ -22,22 +22,22 @@ du -h main.no
 0       main.no
 ```
 
-> The only valid code is no code.
+> 只有一种有效的代码，那就是没码。
 
 ## Code Reviews
 
-The no code community has adopted the following conventions when reviewing code changes:
+没码社区一般遵循下列传统，当 review 代码变化时：
 
-When the change contains no code additions or modifications:
-
-```
-LGTM # Looks Good To Me
-```
-
-When the change includes code additions or modifications:
+当变化不包括新代码和修改代码：
 
 ```
-CIAL # Code Is A Liability
+zbc # 真不戳
 ```
 
-> Change requests that fall into this category should be rejected immediately.
+当变化包含新增和修改时：
+
+```
+dmdsprd # 代码都是骗人的
+```
+
+> 对这个范畴的修改请求，应当被立即拒绝。
